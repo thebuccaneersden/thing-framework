@@ -1,4 +1,4 @@
 thing-framework
 ===============
 
-Thing Framework - Does things
+Thing Framework - Does stuff
