@@ -1,0 +1,3 @@
+This folder contains all configuration for your application. For now I've chosen json,
+but that seems too easy a format to use. Something not beffiting of thing-framework.
+I might change it to something a bit more esoteric. 
