@@ -16,5 +16,5 @@ if ($uri !== '/' and file_exists($requested))
         return false;
 }
 
-require_once $paths['public'].'/knock-knock.php';
+require_once $paths['public'].'/front-door.php';
 
